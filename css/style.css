@@ -1,0 +1,54 @@
+
+body{
+    font-family: "Helvetica Neue";
+}
+
+#app-container {
+    width : 500px;
+    margin-left: auto;
+    margin-right: auto;
+    border: 4px black solid;
+    padding: 10px 35px;
+}
+
+h1 {
+    font-weight: 500;
+    margin-bottom: 2px;
+    font-style: italic;
+}
+
+h2 {
+  color: red;
+  font-family: "Helvetica";
+  font-weight: 200;
+  margin-top: 0;
+}
+
+.desc-exhibit h3 {
+    text-align: center;
+}
+
+.header-content img {
+    display: block;
+    width: 100%;
+}
+
+.desc-exhibit {
+    font-size: 21px;
+}
+
+.sponsor {
+    font-size: 14px;
+}
+
+.sponsor img {
+  width: 140px;
+}
+
+.footer p {
+  font-size: 10px;
+}
+
+.footer img {
+    width: 100%;
+}
